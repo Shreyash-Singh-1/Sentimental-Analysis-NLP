@@ -30,6 +30,10 @@ I trained and compared three different classification algorithms:
 | **Logistic Regression** | 0.7992 | 0.7862 |
 | **SVM** | 0.7947 | 0.7858 |
 
+![Naive Bayes](naive.png)
+![logistic Regression](logistic.png)
+![SVM](svm.png)
+
 **Key Takeaways:** * The Support Vector Machine (SVM) and Logistic Regression models generally outperformed Naive Bayes in distinguishing between the three sentiment classes.
 * Confusion matrices were generated for each model to visualize where the classifiers succeeded and where they struggled (e.g., occasionally confusing neutral tweets with negative ones). 
 
