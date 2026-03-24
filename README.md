@@ -37,8 +37,3 @@ I trained and compared three different classification algorithms:
 **Key Takeaways:** * The Support Vector Machine (SVM) and Logistic Regression models generally outperformed Naive Bayes in distinguishing between the three sentiment classes.
 * Confusion matrices were generated for each model to visualize where the classifiers succeeded and where they struggled (e.g., occasionally confusing neutral tweets with negative ones). 
 
-## 🚀 How to Run this Project
-1. Clone this repository to your local machine.
-2. Ensure you have the required libraries installed: `pip install pandas nltk scikit-learn matplotlib seaborn`
-3. Download the `Tweets.csv` dataset from Kaggle and place it in the same directory.
-4. Run the Jupyter Notebook to see the preprocessing, model training, and visualizations in action.
