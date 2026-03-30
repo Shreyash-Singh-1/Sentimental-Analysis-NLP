@@ -22,7 +22,6 @@ I trained and compared three different classification algorithms:
 3. **Support Vector Machine (SVM - Linear Kernel)**
 
 ## 🏆 Results
-*(Note: Replace the X's below with your actual scores!)*
 
 | Model | Accuracy | F1-Score (Weighted) |
 |-------|----------|---------------------|
